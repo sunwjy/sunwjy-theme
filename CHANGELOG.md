@@ -4,6 +4,11 @@ All notable changes to the "sunwjy-theme" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.4] - 2026-02-05
+
+### Changed
+- Updated extension icon
+
 ## [1.0.3] - 2026-01-16
 
 ### Changed
